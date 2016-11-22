@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ACPSample_B2C:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ACPSample_B2C_war</output-path>
+    <root id="archive" name="ACPSample_B2C_war.war">
+      <element id="artifact" artifact-name="ACPSample_B2C:war exploded" />
+    </root>
+  </artifact>
+</component>
